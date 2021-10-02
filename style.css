@@ -1,0 +1,152 @@
+body{
+
+    color: ivory;
+    margin: 0px;
+    padding: 0px;
+    background: url("logo2.jpg");
+}
+
+
+.left{
+    /* border: 2px solid green; */
+    display: inline-block;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    display: inline-block;
+    /* border: 2px solid yellow; */
+    /* justify-content: center; */
+    text-align: center;
+
+}
+
+.left div{
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+}
+.left img{
+
+    width: 110px;
+    
+}
+
+
+
+.navbar{
+    display: inline-block;
+
+}
+.navbar li{
+    /* display: inline-block; */
+    display: inline-block;
+    padding: -2px;
+    padding: 9px;
+    margin: 0px;
+
+} 
+
+
+
+.mid{
+    /* border: 2px solid white; */
+    display: block;
+    width: 33%;
+    margin: 12px auto;
+    /* border: 2px solid green; */
+}
+
+
+
+.right{
+    /* border: 2px solid black; */
+    position: absolute;
+    right: 40px;
+    top: 20px;
+    display: inline-block;
+    /* border: 2px solid yellow; */
+
+
+
+
+
+
+}
+
+
+.btn{
+
+
+    display: inline-block;
+    padding: 17px;
+    /* margin-block: auto; */
+    margin: 14px;
+    border: 2px solid antiquewhite;
+    border-radius: 37px;
+    width: 56px;
+}
+
+.heading{
+    
+    height: 111px;
+    height: 54px;
+    margin: 0px;
+    /* border: 3px solid ghostwhite; */
+    /* border-radius: 27px; */
+    padding: 7px;
+    /* justify-content: center; */
+    /* width: 44%; */
+    text-align: center;
+}
+
+.primary{
+    /* border: 3px solid ghostwhite; */
+    border: 3px solid ghostwhite;
+    width: 41%;
+    height: 441px;
+    margin: 67px;
+    border-radius: 44px;
+    text-align: center;
+}
+
+.forms{
+    padding: 14px;
+    /* width: 10px; */
+    margin: 2%;
+
+
+}
+
+.btn2{
+
+    padding: 11px;
+    /* height: 69px; */
+    margin: -24px;
+    font-size: 1.4rem;
+    border: 2px solid floralwhite;
+    border-width: 0px;
+    border-radius: 42px;
+    /* border-size: inherit; */
+    background: azure;
+    /* border-left: 0px; */
+    height: 27px;
+    /* width: 57px; */
+    height: 53px;
+    width: 81px;
+}
+
+.btn2:hover{
+
+    background-color: antiquewhite;
+    /* padding:20px; */
+    /* height: 50px; */
+
+}
+
+.center{
+
+    background-color: black;
+    text-align: center;
+    color: beige;
+    font-size: small;
+}
